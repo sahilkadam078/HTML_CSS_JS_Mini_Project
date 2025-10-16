@@ -35,7 +35,7 @@ To build a functional **to-do list application** using HTML, CSS, and vanilla Ja
 ---
 
 ## 📸 Preview
-![To-Do App Preview](/assests/homepage.png)  
+![To-Do App Preview](assests/homepage.png)  
 > *Clean UI with interactive to-do list functionality.*
 
 ---
