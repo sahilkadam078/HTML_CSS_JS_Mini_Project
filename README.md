@@ -20,10 +20,10 @@ Each subfolder here contains a small interactive project built with **HTML, CSS 
 ## 📂 Projects Overview
 
 | No. | Project | Description | Live Demo |
-|-----|---------|-------------|-----------|
-| 1 | To-Do App | Interactive task management list with add, delete, toggle features. | *(Coming soon)* |
-| 2 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors game vs computer with scoring. | *(Coming soon)* |
-| 3 | Simon Says Game | Memory sequence game where user repeats a color pattern. | *(Coming soon)* |
+|-----|----------|-------------|------------|
+| 1 | To-Do App | Interactive task management list with add, delete, and toggle features. | [🔗 View Live](https://sahilkadam078.github.io/HTML_CSS_JS_Mini_Project/to_do_app/public/index.html) |
+| 2 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors game vs computer with scoring. | [🔗 View Live](https://sahilkadam078.github.io/HTML_CSS_JS_Mini_Project/Rock_Paper_Scissors_Game/public/index.html) |
+| 3 | Simon Says Game | Memory sequence game where the user repeats the color pattern. | [🔗 View Live](https://sahilkadam078.github.io/HTML_CSS_JS_Mini_Project/Simon_Says_Game/public/index.html) |
 
 ---
 
